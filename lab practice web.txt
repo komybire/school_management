@@ -1,0 +1,681 @@
+<html>
+<head>
+  
+<title>BHU</title>
+</head>
+<body>
+<h1>welcome to BHU </h1>
+<h2>welcome to software department </h2>
+<h3> welcome to SWE 3rd year </h3>
+<img src="bhu.jpg"  width="350" height="300"/><br/><br/>
+
+
+</body>
+</html>
+==========================================================
+<html>
+<head>
+  
+<title>BHU</title>
+</head>
+<body>
+<marquee><h1>welcome to BHU </h1></marquee>
+<h2>welcome to software department </h2>
+<h3> welcome to SWE 3rd year </h3>
+ 
+<marquee><img src="bhu.jpg"  width="350" height="300"/><br/><br/></marquee>
+<table border="1" CELLPADDING="5" CELLSPACING="0" >
+
+<tr>
+<td ><b> Number </b></td>
+<td><b>Fullname</b></td>
+<td><b>Age</b></td>
+<td><b>Sex</b></td>
+<td><b>Adress</b></td>
+<td><b>Phone Number</b></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr >
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr >
+<tr>
+<td rowspan="2">Row1 Cell 1</td>
+<td>Row1 Cell 2</td>
+<td>Row1 Cell 3</td>
+</tr>
+<tr>
+<td >Row2 Cell 2</td>
+<td>Row2 Cell 3</td>
+
+</tr>
+<tr>
+<td colspan="3">Row3 Cell 1</td>
+
+</tr>
+</table>
+<ul type="square">
+<li>Beetroot</li>
+<li>Ginger</li>
+<li>Potato</li>
+<li>Radish</li>
+</ul>
+
+<ol type="square">
+<li>Beetroot</li>
+<li>Ginger</li>
+<li>Potato</li>
+<li>Radish</li>
+</ol>
+
+<dt type="square">
+<li>Beetroot</li>
+<li>Ginger</li>
+<li>Potato</li>
+<li>Radish</li>
+</dt>
+</body>
+</html>
+===============================
+<html>
+<head>
+  
+  <title>HTML Frames</title>
+</head>
+<frameset rows="10%,80%,10%">
+<frame name="top" src="lab1.html"/>
+<frame name="main" src="lab2.html"/>
+<frame name="bottom" src="lab1.html"/>
+<noframes>
+<body>your browser doesnot support frames
+</body>
+</noframes>
+</frameset>
+</html>
+=====================================
+<html>
+<head>
+  
+  <title></title>
+</head>
+<body>
+<div style="color:red">
+<h4>This is first group</h4>
+<p>list of vegitables</p>
+<ul>
+<li>Beetroot</li>
+<li>Ginger</li>
+<li>Potato</li>
+</ul>
+</div>
+
+<div style="color:green">
+<h4>This is second group</h4>
+<p>list of fruits</p>
+<ul>
+<li>Apple</li>
+<li>Banana</li>
+<li>Mango</li>
+<li>Strawbery</li>
+</ul>
+</div>
+<p>This is <span style="color:red">red </span>and this is
+<span style="color:green">green</span></p>
+</body>
+</html>
+===================================
+<html>
+<head>
+  
+<title>HTML form </title>
+</head>
+<body style="background-color:#E6E6FA">
+<br><br> <br><br>
+<h1><b><u>REGISTRATION FORM</u></b></h1>
+<form>
+First name:<input type="text" name="first_name" class="required"/>
+<br><br>
+Middle name:<input type="text" name="middle_name" class="required"/>
+<br><br>
+Last name:<input type="text" name="last_name" class="required"/>
+<br><br>
+User Id:<input type="text" name="user_id" class="required"/>
+<br><br>
+Password:<input type="password" name="password" class="required"/>
+<br><br>
+Sex:<input type="radio" name="sex" value="Male">Male
+<input type="radio" name="sex" value="Female">Female
+<br><br>
+Commmon Course:
+<input type="checkbox" name="maths" value="on">maths
+<input type="checkbox" name="physics" value="on">physics
+<br><br>
+SWE Course:
+<select name="dropdown"><option value="java" selected> Java</option>
+<br>
+
+<option value="PHP" selected> PHP</option>
+</select>
+<br>
+Select File:
+<br><br>
+<input type="file" name="fileupload" accept="image/*"/>
+<br><br>
+Discription:
+<textarea rows="5" cols="50" name="description">Enter description here...</textarea><br><br>
+<input type="submit" name="submit" value="submit"/>
+<input type="reset" name="reset" value="reset"/>
+
+</form>
+</body>
+</html>
+===============================================
+<html>
+<head>
+<title>Bule Hora University</title>
+<style>
+* {
+margin:0;
+padding:0;
+}
+h1{
+front-size:50px;
+background-color:#0eb358;
+color:white;
+text-align:center;
+text-shadow:3px 3px;
+}
+.menu{
+margin:5px;
+justify-content:space-around;
+display:flex;
+background-color:#0eb358;
+front-size:35px;
+height:40px;
+}
+.AboutDiv{
+background-color:aquamarine;
+
+}
+.followus{
+display:flex;
+background-color:gray;
+}
+h2{
+front-size:30px;
+text-align:center;
+text-shadow:1px 1px;
+padding:15px;
+}
+h4{
+front-size:1.5rem;
+padding:0 1rem;
+front-family:Arial ,Helvetica,san-serif;
+}
+p{
+front-size:1rem;
+padding:0 1rem;
+front-family:cursive;
+}
+a{
+text-decoration:none;
+color:#fff;
+padding:0.3px;
+background-color:red;
+}
+</style>
+</head>
+<body>
+<h1><b><u>welcome to Bule Hora University</u></b></h1>
+<div class="menu">
+<a href="lab6.html">Home</a>
+<a href="lab5.html">College</a>
+<a href="#">Community services</a>
+<a href="#">Contact us</a>
+</div>
+<div class="AboutDiv"><h2>About Bule Hora University</h2>
+<p>Bule Hora University is</p>
+
+</div>
+<div class="followus">
+<h4>please follow us for more information</h4>
+<ul>
+<li><a href="facebook.com">Facebook</a></li><br>
+<li><a href="Tiwtter.com">Twitter</a></li><br>
+<li><a href="@bhu.edu.et">Telegram</a></li><br>
+<li><a href="bdu.edu.et">web site</a></li><br>
+</ul>
+
+</div>
+</body>
+</html>
+========================================================
+<html>
+<head>
+<title>Bule Hora University</title>
+<style>
+* {
+margin:0;
+padding:0;
+}
+h1{
+front-size:50px;
+background-color:#0eb358;
+color:white;
+text-align:center;
+text-shadow:3px 3px;
+}
+.menu{
+margin:5px;
+justify-content:space-around;
+display:flex;
+background-color:#0eb358;
+front-size:35px;
+height:40px;
+}
+.AboutDiv{
+background-color:aquamarine;
+
+}
+.followus{
+display:flex;
+background-color:gray;
+}
+h2{
+front-size:30px;
+text-align:center;
+text-shadow:1px 1px;
+padding:15px;
+}
+h4{
+front-size:1.5rem;
+padding:0 1rem;
+front-family:Arial ,Helvetica,san-serif;
+}
+p{
+front-size:1rem;
+padding:0 1rem;
+front-family:cursive;
+}
+a{
+text-decoration:none;
+color:#fff;
+padding:0.3px;
+background-color:red;
+}
+</style>
+</head>
+<body>
+<h1><b><u>welcome to Bule Hora University</u></b></h1>
+<div class="menu">
+<a href="lab6.html">Home</a>
+<a href="lab5.html">College</a>
+<a href="#">Community services</a>
+<a href="#">Contact us</a>
+</div>
+<div class="AboutDiv"><h2>About Bule Hora University</h2>
+<p>Bule Hora University is</p>
+
+</div>
+<div class="followus">
+<h4>please follow us for more information</h4>
+<ul>
+<li><a href="facebook.com">Facebook</a></li><br>
+<li><a href="Tiwtter.com">Twitter</a></li><br>
+<li><a href="@bhu.edu.et">Telegram</a></li><br>
+<li><a href="bdu.edu.et">web site</a></li><br>
+</ul>
+
+</div>
+</body>
+</html>
+=============================================
+<html>
+<head>
+  
+  <title></title>
+</head>
+<body>
+<h1>My Frist Page</h1>
+<p>My Frist Paragraph</p>
+<p id="demo"></p>
+<script> 
+document.getElementById("demo").innerHTML=5+6;
+
+</script>
+</body>
+</html>
+===================================================
+<html>
+<head>
+  
+  <title></title>
+</head>
+<body>
+<h1>My Frist Page</h1>
+<p>My Frist Paragraph</p>
+
+<script> 
+document.write(5+6);
+
+</script>
+</body>
+</html>
+================================
+<html>
+<head>
+  
+  <title>HTML Form</title>
+<script >
+  function validateReg(){
+  var fname=document.regform.fname.value;
+  var mname=document.regform.mname.value;
+  var lname=document.regform.lname.value;
+  var password=document.regform.password.value;
+  
+  if( fname==""){
+  alert("first name can't be blank");
+  return false;
+  }
+  
+  else if( mname==""){
+  alert("middle name can't be blank");
+  return false;
+  }
+   else if(lname==""){
+  alert("last name can't be blank");
+  return false;
+  }
+  else if (password.length<6){
+  alert("password must be at least 6 characters long.");
+  return false;
+  }
+  else {
+  alert("Succesfuly registered!");
+  return false;
+  }
+  }
+</script>
+</head>
+<body>
+<form name="regform" method="post" action=""
+onsubmit="return validateReg()">
+<br><br> <br><br>
+<h1><b><u>REGISTRATION FORM</u></b></h1>
+F_name:<input type="text" name="fname" />
+<br><br>
+M_name:<input type="text" name="mname"/>
+<br><br>
+L_name:<input type="text" name="lname"/>
+<br><br>
+
+Password:<input type="password" name="password" />
+<br><br>
+<input type="submit" value="register" />
+</form>
+</body>
+</html>
+========================================================
+<html>
+
+  
+  <title>PHP </title>
+
+<body>
+<?php 
+$txt="Hello World";
+echo $txt;
+$txt1="Helllo World";
+$txt2="1234";
+echo $txt1 . " " . $txt2;
+?>
+</body>
+</html>
+=======================================
+<?php 
+$servername="localhost";
+$username="root";
+$password="";
+$con=mysqli_connect("localhost","root","");
+if(!$con){
+  die('Could not connect:'.mysql_error());
+}
+else{
+echo "connection successfuly stablished";
+}
+?>
+============================================
+<?php 
+$servername="localhost";
+$username="root";
+$password="";
+$con=mysqli_connect("localhost","root","");
+if(!$con){
+  die('Could not connect:'.mysql_error());
+}
+mysqli_close($con);
+echo "connection is closed";
+?>
+===========================================
+<?php
+$servername="localhost";
+$username="root";
+$password="";
+$con=mysqli_connect("localhost","root","");
+if(!$con){
+    die('Could not connect:'.mysqli_error());
+}
+
+
+$dbname = "my_db"; 
+$sql = "CREATE DATABASE $dbname";
+if ($con->query($sql) === TRUE) {
+    echo "Database created successfully";
+} else {
+    echo "Error creating database: " . $con->error;
+}
+
+
+$con->close();
+?>
+==================================
+<?php
+$servername="localhost";
+$username="root";
+$password="";
+$dbname = "my_db";
+$con=mysqli_connect("localhost","root","","my_db");
+if(!$con){
+    die('Could not connect:'.mysqli_error());
+}
+
+
+$dbname = "my_db"; 
+$sql = "CREATE TABLE Persons (
+    FirstName VARCHAR(15),
+    LastName VARCHAR(15),
+    Age INT
+)";
+
+if ($con->query($sql) === TRUE) {
+    echo "Table 'Persons ' is created successfully";
+} else {
+    echo "Error creating table: " . $con->error;
+}
+
+
+$con->close();
+?>
+===============================================
+<?php
+
+$con = mysqli_connect("localhost", "root", "", "my_db");
+if (!$con) {
+    die('Could not connect: ' . mysqli_connect_error());
+}
+
+// Inserting values into the MyGuests table
+mysqli_query($con, "INSERT INTO Persons (FirstName, LastName, Age) VALUES ('peter', 'griffin', 35)");
+
+mysqli_query($con, "INSERT INTO Persons VALUES ('glen', 'quagmire', 33)");
+mysqli_close($con);
+?>
+==================================================
+<html>
+<head>
+   
+</head>
+<body>
+    <form action="insert.php" method="post">
+        Firstname: <input type="text" name="firstname"><br><br>
+        Lastname: <input type="text" name="lastname"><br><br>
+        Age: <input type="text" name="age"><br><br>
+        
+        <button type="submit" name="submit">Submit</button>
+    </form>
+</body>
+</html>
+=============================================
+<?php
+$con = mysqli_connect("localhost", "root", "", "my_db");
+if (!$con) {
+    die('Could not connect: ' . mysqli_connect_error());
+}
+
+if(isset($_POST['submit'])){
+    $FirstName = $_POST['firstname'];
+    $LastName = $_POST['lastname'];
+    $Age = $_POST['age'];
+
+    $sql = $con->prepare("INSERT INTO Persons (FirstName, LastName, Age) VALUES (?, ?, ?)");
+    $sql->bind_param("sss", $FirstName, $LastName, $Age);
+    
+    if ($sql->execute()) {
+        echo "<script>alert('1 Data inserted successfully!')</script>";
+    } else {
+        echo "<script>alert('There was an error inserting data.')</script>";
+    }
+    
+    $sql->close();
+}
+
+mysqli_close($con);
+?>
+=======================================
+<?php
+$con = mysqli_connect("localhost", "root", "", "my_db");
+if (!$con) {
+    die('Could not connect: ' . mysqli_connect_error());
+}
+
+$sql = "SELECT FirstName, LastName FROM Persons";
+$result = mysqli_query($con, $sql);
+
+if (mysqli_num_rows($result) > 0) {
+    while ($row = mysqli_fetch_array($result)) {
+        echo $row['FirstName'] . " " . $row['LastName'] . "<br/>";
+    }
+} else {
+    echo "No records found";
+}
+
+mysqli_close($con);
+?>
+=============================================
+<?php
+$con = mysqli_connect("localhost", "root", "", "my_db");
+if (!$con) {
+    die('Could not connect: ' . mysqli_connect_error());
+}
+
+$sql = "SELECT FirstName, LastName FROM Persons";
+$result = mysqli_query($con, $sql);
+
+echo "<table border='1'>
+<tr>
+<th>Firstname</th>
+<th>Lastname</th>
+</tr>";
+
+while ($row = mysqli_fetch_array($result)) {
+    echo "<tr>";
+    echo "<td>".$row['FirstName']."</td>";
+    echo "<td>".$row['LastName']."</td>";
+    echo "</tr>";
+}
+
+echo "</table>";
+
+mysqli_close($con);
+?>
+=========================================
+<?php
+$con = mysqli_connect("localhost", "root", "", "my_db");
+if (!$con) {
+    die('Could not connect: ' . mysqli_connect_error());
+}
+
+$sql = "UPDATE Persons SET Age='26' WHERE FirstName='Mohaz' AND LastName='Blac'";
+$result = mysqli_query($con, $sql);
+
+if ($result) {
+    echo "Data updated successfully.";
+} else {
+    echo "Error updating data: " . mysqli_error($con);
+}
+
+mysqli_close($con);
+?>
+======================================
+<?php
+$servername = "localhost";
+$username = "root";
+$password = "mom"; 
+$dbname = "my_db";
+$conn = mysqli_connect($servername, $username, $password, $dbname);
+if (!$conn) {
+    die("Connection failed: " . mysqli_connect_error());
+}
+$sql = "DELETE FROM Persons WHERE LastName='Griffin'";
+if (mysqli_query($conn, $sql)) {
+    echo "Record deleted successfully";
+} else {
+    echo "Error deleting record: " . mysqli_error($conn);
+}
+mysqli_close($conn);
+?>

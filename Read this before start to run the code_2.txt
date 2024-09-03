@@ -1,0 +1,14 @@
+To access the webpage first you must run below code
+
+1.connect.php
+2.createdb.php
+3.admintable.php
+4.studenttable.php
+5.teachertable.php
+6.studentresulttable.php
+7.studentTR.php
+8.subjecttable.php
+9.subjectassign.php
+
+
+10.high.php

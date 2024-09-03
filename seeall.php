@@ -1,0 +1,127 @@
+<html>
+<head>
+<style>
+/* Table Styles */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: Arial, sans-serif;
+}
+
+/* Table Header Styles */
+thead {
+  background-color: #007bff; /* Blue header color */
+  color: #fff; /* White text color */
+}
+table,th,td{
+	text-align:center;
+	
+}
+thead th {
+  padding: 12px 15px;
+  text-align: left;
+  font-weight: bold;
+}
+th{
+	background-color:lightblue;
+}
+/* Table Body Styles */
+tbody tr {
+  border-bottom: 1px solid #ddd;
+}
+
+tbody td {
+  padding: 10px 15px;
+}
+
+tbody tr:nth-of-type(even) {
+  background-color: #f5f5f5; /* Alternating row color */
+}
+
+tbody tr:hover {
+  background-color: #f0f0f0; /* Hover effect */
+}
+
+/* Table Footer Styles */
+tfoot {
+  background-color: #f5f5f5;
+  font-weight: bold;
+}
+
+tfoot td {
+  padding: 10px 15px;
+  text-align: right;
+}
+
+/* Heading Styles */
+h1 {
+  text-align: center;
+  color: #333;
+  font-size: 2.5rem;
+  margin-top: 2rem;
+  margin-bottom: 1.5rem;
+}
+body{
+	text-align:center;
+}
+</style>
+</head>
+<body>
+<h1>Students Results</h1>
+</body>
+</html>
+<?php
+
+$servername = "localhost";
+$username = "root";
+$password = "";
+$dbname = "school_db";
+
+$conn = new mysqli($servername, $username, $password, $dbname);
+
+if ($conn->connect_error) {
+    die("Connection failed: " . $conn->connect_error);
+}
+
+// SQL query to fetch all data from the table
+$sql = "SELECT * FROM student_results";
+
+$result = $conn->query($sql);
+
+if ($result->num_rows > 0) {
+    echo "<table border='1'>";
+    echo "<tr>";
+    echo "<th>ID</th>";
+    echo "<th>First Name</th>";
+    echo "<th>Middle Name</th>";
+    echo "<th>Subject</th>";
+    echo "<th>Quiz</th>";
+    echo "<th>Midterm</th>";
+    echo "<th>Assignment</th>";
+    echo "<th>Final</th>";
+    echo "<th>Total</th>";
+    echo "</tr>";
+
+    // Output data of each row
+    while ($row = $result->fetch_assoc()) {
+        echo "<tr>";
+        echo "<td>" . $row["id"] . "</td>";
+        echo "<td>" . $row["firstName"] . "</td>";
+        echo "<td>" . $row["middleName"] . "</td>";
+        echo "<td>" . $row["subject"] . "</td>";
+        echo "<td>" . $row["quiz"] . "</td>";
+        echo "<td>" . $row["midterm"] . "</td>";
+        echo "<td>" . $row["assignment"] . "</td>";
+        echo "<td>" . $row["final"] . "</td>";
+        echo "<td>" . $row["total"] . "</td>";
+        echo "</tr>";
+    }
+
+    echo "</table>";
+} else {
+    echo "No data found.";
+}
+
+$conn->close();
+
+?>

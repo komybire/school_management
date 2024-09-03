@@ -1,0 +1,3363 @@
+HTML Multiple choice questions (MCQ's)
+1) HTML stands for -
+
+HighText Machine Language
+HyperText and links Markup Language
+HyperText Markup Language
+None of these
+Show Answer Workspace
+2) The correct sequence of HTML tags for starting a webpage is -
+
+Head, Title, HTML, body
+HTML, Body, Title, Head
+HTML, Head, Title, Body
+HTML, Head, Title, Body
+Show Answer Workspace
+3) Which of the following element is responsible for making the text bold in HTML?
+
+<pre>
+<a>
+<b>
+<br>
+Show Answer Workspace
+4) Which of the following tag is used for inserting the largest heading in HTML?
+<h3>
+<h1>
+<h5>
+<h6>
+Show Answer Workspace
+5) Which of the following tag is used to insert a line-break in HTML?
+
+<br>
+<a>
+<pre>
+<b>
+Show Answer Workspace
+6) How to create an unordered list (a list with the list items in bullets) in HTML?
+
+<ul>
+<ol>
+<li>
+<i>
+Show Answer Workspace
+7) Which character is used to represent the closing of a tag in HTML?
+
+\
+!
+/
+.
+Show Answer Workspace
+8) How to create a hyperlink in HTML?
+
+<a href = "www.javatpoint.com"> javaTpoint.com </a>
+<a url = "www.javatpoint.com" javaTpoint.com /a>
+<a link = "www.javatpoint.com"> javaTpoint.com </a>
+<a> www.javatpoint.com <javaTpoint.com /a>
+Show Answer Workspace
+9) How to create an ordered list (a list with the list items in numbers) in HTML?
+
+<ul>
+<ol>
+<li>
+<i>
+Show Answer Workspace
+10) Which of the following element is responsible for making the text italic in HTML?
+
+<i>
+<italic>
+<it>
+<pre>
+Show Answer Workspace
+11) How to insert an image in HTML?
+
+<img href = "jtp.png" />
+<img url = "jtp.png" />
+<img link = "jtp.png" />
+<img src = "jtp.png" />
+Show Answer Workspace
+12) How to add a background color in HTML?
+
+<marquee bg color: "red">
+<marquee bg-color = "red">
+<marquee bgcolor = "red">
+<marquee color = "red">
+Show Answer Workspace
+13) <input> is -
+
+a format tag.
+an empty tag.
+All of the above
+None of the above
+Show Answer Workspace
+14) Which of the following tag is used to make the underlined text?
+
+<i>
+<ul>
+<u>
+<pre>
+Show Answer Workspace
+15) How to create a checkbox in HTML?
+
+<input type = "checkbox">
+<input type = "button">
+<checkbox>
+<input type = "check">
+Show Answer Workspace
+16) Which of the following tag is used to define options in a drop-down selection list?
+
+<select>
+<list>
+<dropdown>
+<option>
+Show Answer Workspace
+17) HTML tags are enclosed in-
+ADVERTISEMENT
+
+
+# and #
+{ and }
+! and ?
+< and >
+Show Answer Workspace
+18) Which of the following tag is used to add rows in the table?
+
+<td> and </td>
+<th> and </th>
+<tr> and </tr>
+None of the above
+Show Answer Workspace
+19) The <hr> tag in HTML is used for -
+
+new line
+vertical ruler
+new paragraph
+horizontal ruler
+Show Answer Workspace
+20) Which of the following attribute is used to provide a unique name to an element?
+ADVERTISEMENT
+
+
+class
+id
+type
+None of the above
+Show Answer Workspace
+21) Which of the following HTML tag is used to display the text with scrolling effect?
+
+<marquee>
+<scroll>
+<div>
+None of the above
+Show Answer Workspace
+22) Which of the following HTML tag is the special formatting tag?
+
+<p>
+<b>
+<pre>
+None of the above
+Show Answer Workspace
+ADVERTISEMENT
+
+ADVERTISEMENT
+
+23) Which of the following is the correct way to send mail in HTML?
+
+<a href = "mailto: xy@y">
+<a href = "xy@y">
+<mail xy@y</mail>
+None of the above
+Show Answer Workspace
+24) Which of the following is the container for <tr>, <th>, and <td> ?
+
+<data>
+<table>
+<group>
+All of the above
+Show Answer Workspace
+25) How to insert a background image in HTML?
+
+<body background = "img.png">
+<img background = "img.png">
+<bg-image = "img.png">
+None of the above
+Show Answer Workspace
+26) What are the types of unordered or bulleted list in HTML?
+
+disc, square, triangle
+polygon, triangle, circle
+disc, circle, square
+All of the above
+Show Answer Workspace
+27) Which of the following is the correct way to create a list using the lowercase letters?
+
+<ol alpha = "a" >
+<ol type = "a">
+<ol letter = "a">
+None of the above
+Show Answer Workspace
+28) Which of the following is the correct way to start an ordered list with the count of numeric value 4?
+
+<ol type = "1" initial = "4">
+<ol type = "1" begin = "4">
+<ol type = "1" num = "4">
+<ol type = "1" start = "4">
+Show Answer Workspace
+ADVERTISEMENT
+
+ADVERTISEMENT
+
+29) Which of the following HTML attribute is used to define inline styles?
+
+style
+type
+class
+None of the above
+Show Answer Workspace
+30) Which of the following is the paragraph tag in HTML?
+
+<p>
+<b>
+<pre>
+None of the above
+Show Answer Workspace
+31) An HTML program is saved by using the ____ extension.
+
+.ht
+.html
+.hml
+None of the above
+Show Answer Workspace
+32) A program in HTML can be rendered and read by -
+
+Web browser
+Server
+Interpreter
+None of the above
+Show Answer Workspace
+33) The tags in HTML are -
+
+case-sensitive
+in upper case
+not case sensitive
+in lowercase
+Show Answer Workspace
+34) Which of the following is the root tag of the HTML document?
+
+<body>
+<head>
+<title>
+<html>
+Show Answer Workspace
+35) In HTML5, which of the following tag is used to initialize the document type?
+ADVERTISEMENT
+
+ADVERTISEMENT
+
+
+<Doctype HTML>
+<\Doctype html>
+<Doctype>
+<!DOCTYPE html>
+Show Answer Workspace
+36) Which of the following tag is used to create a combo box (or drop-down box)?
+
+<list>
+<select>
+<input type = "dropdown">
+<ul>
+Show Answer Workspace
+37) Which of the following are the attributes of the
+
+tag?
+method
+action
+Both (a) & (b)
+None of the above
+Show Answer Workspace
+38) Which is the correct way to comment out something in HTML?
+
+Using ## and #
+Using <!-- and -->
+Using </-- and -/->
+Using <!-- and -!>
+Show Answer Workspace
+39) Which HTML tag is used to display the power in expression, i.e., (x2 - y2)?
+
+<sup>
+<sub>
+<p>
+None of the above
+Show Answer Workspace
+40) Which of the following is the correct way to change the font face in HTML?
+
+<font name = "Calibri"> ……… </font>
+<font face = "Calibri"> ……… </font>
+<font = "Calibri"> ……… </font>
+None of the above
+================================================================================================================================
+HTML MCQ Questions and Answers PDF
+1. HTML is used to create
+
+a) Web server
+
+b) Word document
+
+c) Web page
+
+d) Database
+
+Ans. c
+
+2. How to embed audio files in html
+
+a) <embed src  = “mysong.mid” width = “100” height = “15”>
+
+b) <embed sound  = “mysong.mid” width = “100” height = “15”>
+
+
+c) <embed audio  = “mysong.mid” width = “100” height = “15”>
+
+d) <embed music  = “mysong.mid” width = “100” height = “15”>
+
+Ans. a
+
+3. What is tag tt tag in html
+
+a) It renders fonts as teletype text font style
+
+b) It renders fonts as truetype text font style
+
+c) It renders fonts as truncate text font style
+
+d) None of these
+
+Ans. a
+
+4. How many heading tags are supported by HTML?
+
+a) 3
+
+b) 4
+
+c) 5
+
+d) 6
+
+Ans. d
+
+5. HTML supports
+
+a) ordered list
+
+b) unordered list
+
+c) both type lists
+
+d) Does not support those types
+
+Ans. c
+
+6. HTML is derived from
+
+a) URL
+
+b) SGML
+
+c) TCP/IP
+
+d) Browsers
+
+Ans. b
+
+7. What is the first tag in html document?
+
+A) <html>       
+
+B) <head>     
+
+C) <title>        
+
+D) </html>
+
+Ans. a
+
+8. Which html tag inserts a line horizontally in a page?
+
+A) <lr>
+
+B) <l>             
+
+C) <hr>           
+
+D) <line>
+
+Ans. c
+
+9.What are the two main parts, available in html document?
+
+A)Title and Body          
+
+B)Head and title
+
+C)Head and Body        
+
+D)Head and document
+
+  Ans. c
+
+10.Which character in html is used to indicate end tag?
+
+A) \                       
+
+B) /                 
+
+C) !                  
+
+D) <#
+
+ Ans. b
+
+11. Which symbols starts with html comments?
+
+A) <!                     
+
+B) </                
+
+C) <#              
+
+D) <\
+
+ Ans. a
+
+12. Which attribute is used with <td> tag to merge two cells horizontally?
+
+A) Colspan = 2         
+
+B) Rowspan = 2
+
+C) Mergerows           
+
+D) mergecols
+
+Ans. a
+
+13. Which tag creates a checkbox for a form in html?
+
+A) <check box>                     
+
+B) <input check box>
+
+C) <input = check box>       
+
+D) <input type = “check box”>
+
+Ans. d
+
+14. Which html tag is used to add a row in a table?
+
+A) <tr> and </tr>        
+
+B) <cr> and </cr>
+
+C) <th> and </th>     
+
+D) <td> and </td>
+
+Ans. a
+
+15. Which html tag is used to divide a row into data cells?
+
+A) <tr> and </tr>        
+
+B) <cr> and </cr>
+
+C) <th> and </th>     
+
+D) <td> and </td>
+
+Ans. d
+
+16. Which is the correct syntax for adding alternate text for image, if the image cannot be displayed?
+
+A) <imgsrc = “boat.gif” alt = “big boat”>
+
+B) <imgsrc = “boat.gif” alt text = “big boat”/>
+
+C) <imgsrc = “boat.gif” alternate = “big boat”/>
+
+D) <imgsrc = “boat.gif” alternate text = “big boat”/>
+
+Ans. a
+
+17. Which is the correct H1 tag for right alignment?
+
+A <h1 align = “right”>…..</h1>
+
+B <h1 tag align = “right”>…..</h1>
+
+C <h1 align = “r”>…..</h1>
+
+D <h1 alignment = “right”>…..</h1>
+
+Ans. a
+
+18.What is the correct syntax for making a hyperlink?
+
+A <http: // “https://www.myheetson.blogspot.com”</a>
+
+
+B <url = “https: // www.myheetson.blogspot.com”>heetson
+
+C <a href = “https:// www.myheetson.blogspot.com”>heetson</a>
+
+D <a ref = “https:// www.myheetson.blogspot.com”>heetosn</a>
+
+ Ans. c
+
+19. Which is the correct tag for adding iframe in html?
+
+A <iframe https://www.myheetson.blogspot.com></iframe>
+
+B <iframe =”https:// www.myheetson.blogspot.com”></iframe>
+
+C <iframesrc = “https://www.myheetson.blogspot.com”></iframe>
+
+D <iframehref = “https:// www.myheetson.blogspot.com”></iframe>
+
+ Ans. c
+
+20. what is the correct html tag for adding a background color?
+
+A <body color = “Yellow”>                  
+
+B <body bgcolor = “Yellow”>
+
+C <body background = “Yellow”>     
+
+D <body bg = “Yellow”>
+
+Ans. b
+
+21. How do you add a link which will allow the visitor to send an email from the page?
+
+A <a href = “mailto :youradderss”>                
+
+B <a href = “sendmailtoyour address”>
+
+C <a=”mailto”>                                                  
+
+D <href = “mailto”>
+
+ Ans. a
+
+22. What will happen, If the background image is smaller than the screen, what will happen?
+
+A It will be stretched
+
+B It will leave a blank space at the bottom of the page
+
+C It will leave a blank space at the top of the page
+
+D It will be repeated
+
+Ans. d
+
+23. which is the correct html tag for making a text input field?\
+
+A <text type = “Text”>               
+
+B <input type = “text”>
+
+C <input type = “textfield”>     
+
+D <input type = “textbox”>
+
+Ans. b
+
+24. Which is the correct html tag for creating password field?
+
+A <text type = “password”>
+
+B <input type = “pwd”>
+
+C <input type = “password”>         
+
+D <input type = “passcode”>
+
+Ans. c
+
+25. What is the correct html code for inserting a background image?
+
+A <Body background = “image jpg”>       
+
+B <body = “image.jpg”>
+
+C <background = “image.jpg”>                 
+
+D <body background = image.jpg>
+
+Ans. a
+
+26. Which option will match, while making bulleted list?
+
+A Square, disc, polygon                
+
+B triangle, disc, circle
+
+C triangle, square, circle                
+
+D disc, circle, square
+
+Ans. d
+
+27. What is the meaning of increase the cell padding?
+
+A Increase the thickness of table border
+
+B Increase the space between cells
+
+C Increase the distance between cell and content
+
+D Increase the no of cells
+
+Ans. c
+
+28. Which property of cells will how many rows a cell should span?
+
+A Colspan = 5          
+
+B Rowspan = 5
+
+C Cellspan = 5        
+
+D Span = 5
+
+Ans. b
+
+29. Which web language give more control over the HTML elements and allows them to change at any time without returning to the Web server?
+
+A BML           
+
+B XML           
+
+C HTML        
+
+D DHTML
+
+Ans. d
+
+30. <a> tag in HTML
+
+a) Alters a hyperlink                       
+
+b) Defines a hyperlink       
+
+c) Deletes a hyperlink        
+
+d) Accuses a hyperlink
+
+Ans. b
+
+31. Which tag defines value of a term in description list?
+
+a) <a>            
+
+b) <val>         
+
+c) <del>         
+
+d) <dd>
+
+Ans. d
+
+32. A control’s ______ is given by its name attribute.
+
+a) Control name      
+
+b) Area          
+
+c) Sphere      
+
+d) Quotation
+
+Ans. a
+
+33. There are how many types of HTML controls?
+
+a) 8                
+
+b) 7                
+
+c) 4                 
+
+d) 5
+
+Ans. b
+
+34. In DHTML what does D stand for?
+
+a) Down        
+
+b) Drain         
+
+c) Dead         
+
+d) Dynamic
+
+Ans. d
+
+35. What is the full form of DHTML?
+
+a) Digital Host markup language             
+
+b) Dynamic hypertext markup language
+
+c) Digital higher text markup language   
+
+d) Dynamic higher markup language
+
+Ans. b
+
+36. From which tag descriptive list starts
+
+a) <LL>          
+
+b) <dd>          
+
+c) <DL>         
+
+d) <DS>
+
+Ans. c
+
+37. The attribute of <form> tag
+
+a) Method     
+
+b) Action       
+
+c) Both A and B       
+
+d) None of these
+
+Ans. c
+
+38. What are empty elements and is it valid?
+
+a) No, there is no such terms as empty elements
+
+b) Empty elements are elements with no data
+
+c) No, it is not valid to use empty element
+
+d) None of these
+
+Ans. b
+
+39. Which of the following attributes of text box control allow to limit the maximum character?
+
+a) size                       
+
+b) len             
+
+c) maxlength            
+
+d) All of these
+
+Ans. c
+
+40. HTML is a subset of
+
+a) SGMT       
+
+b) SGML       
+
+c) SGMD       
+
+d) None of these
+
+Ans. b
+====================================================================
+HTML MCQ PDF
+1. The HTML global attribute, “contenteditable” is used to:
+
+a) Update content from the server
+
+b) Specifies a context menu for an element. The menu appears when a user right-click on the element
+
+c) Specify whether the content of an element should be editable or not
+
+
+d) Return the position of the first found occurrence of content inside a string
+
+Ans. c
+
+2. In HTML, onblur and on onfocus are:
+
+a) HTML elements
+
+b) Style attributes
+
+c) Event attributes
+
+d) None of these
+
+Ans. c
+
+3. Graphics defined by SVG is in which format?
+
+a) HTML
+
+b) XML
+
+c) CSS
+
+d) Java
+
+Ans. b
+
+4. The HTML <canvas> element is used to:
+
+a) manipulate data in MySQL
+
+b) create draggable elements
+
+c) draw graphics
+
+d) display database records
+
+Ans. c
+
+5. In HTML, which attribute is used to specify that an input field must be filled out?
+
+a) required
+
+b) placeholder
+
+c) validate
+
+d) formvalidate
+
+Ans. a
+
+6. Which input type defines a slide control?
+
+a) range
+
+b) slider
+
+c) search
+
+d) controls
+
+Ans. a
+
+7. Which HTML element is used to display a scalar measurement within a range?
+
+a) <measure>
+
+b) <range>
+
+c) <gauge>
+
+d) <meter>
+
+Ans. D
+
+8. Which HTML element defines navigation links?
+
+a) <navigation>
+
+b) <navigate>
+
+c) <nav>
+
+d) None of these
+
+Ans. c
+
+9. In HTML, what does the <aside> element define?
+
+a) The ASCII character-set; to send information between computers on the internet
+
+b) A navigation list to be shown at the left side of the page
+
+c) Content aside from the page content
+
+d) None of these
+
+Ans. c
+
+10. Which HTML element is used to specify a header for a document or section?
+
+a) <section>
+
+b) <top>
+
+c) <header>
+
+d) <head>
+
+Ans. c
+
+11. Which of these elements are all <table> elements?
+
+a) <table> <tr> <td>
+
+b) <table> <tr> <tt>
+
+c) <thead> <body> <tr>
+
+d) <table> <head> <tfoot>
+
+Ans. a
+
+12. Inline elements are normally displayed without starting a new line.
+
+a) True
+
+b) False
+
+Ans. a
+
+13. How can you make a numbered list?
+
+a) <ol>
+
+b) <list>
+
+c) <ul>
+
+d) <dl>
+
+Ans. a
+
+14. How can you make a bulleted list?
+
+a) <dl>            
+
+b) <ul>            
+
+c) <ol>            
+
+d) <list>
+
+Ans. b
+
+15. What is the correct HTML for making a checkbox?
+
+a) <input type= “checkbox”>
+
+b) <checkbox>
+
+c) <input type= “check”>
+
+d) <check>
+
+Ans. a
+
+16. What is the correct HTML for making a text input field?
+
+a) <input type= “textfield”>
+
+b) <textfield>
+
+c) <textinput type = “text”>
+
+d) <input type= “text”>
+
+Ans. d
+
+17. What is the correct HTML for making a drop-down list?
+
+a) <list>
+
+b) <select>
+
+c) <input type = “list”>
+
+d) <input type= “dropdown”>
+
+Ans. b
+
+18. What is the correct HTML for making a text area?
+
+a) <input type= “textarea”>
+
+b) <input type= “textbox”>
+
+c) <textarea>
+
+d) None of these
+
+Ans. c
+
+19. What is the correct HTML for inserting an image?
+
+a) <img src= “image.gif” alt= “Myimage”>
+
+b) <image src= “image.gif” alt= “MyImage”>
+
+c) <img alt= “MyImage”> image.gif</img>
+d) <img href= “Image.gif” alt= “MyImage”>
+
+Ans. a
+
+20. What is the correct HTML for inserting a background image?
+
+a) <background img= “background.gif”>
+
+b) <body style= “background-image:url(background.gif)”>
+
+c) <body bg=”background.gif”>
+
+d) None of these
+
+Ans. b
+
+21. An <iframe> is used to display a web page within a web page.
+
+a) There is no such thing as an <iframe>
+
+b) True
+
+c) False
+
+d) None of these
+
+Ans. b
+
+22. HTML comments start with <!—and end with –>
+
+a) True
+
+b) False
+
+c) No Idea
+
+d) None of these
+
+Ans. a
+
+23. Block elements are normally displayed without starting a new line.
+
+a) True
+
+b) False
+
+Ans. b
+
+24. Which HTML element defines the title of a document?
+
+a) <meta>
+
+b) <head>
+
+c) <title>
+
+d) None of these
+
+Ans. c
+
+25. Which HTML attribute specifies an alternate text for an image, if the image cannot be displayed?
+
+a) longdesc
+
+b) src
+
+c) title
+
+d) alt
+
+Ans. d
+
+26. Which doctype is correct for HTML5?
+
+a) <!DOCTYPE HTML PUBLIC “-//WWW//DTD HTML 5.0//EN”  http://www.YouTube.com>
+
+b) <!DOCTYPE html>
+
+c) <!DOCTYPE HTML5>
+
+d) None of these
+
+Ans. b
+
+27. Which HTML element is used to specify a footer for a document or section?
+
+a) <bottom>
+
+b) <footer>
+
+c) <section>
+
+d) None of these
+
+Ans. b
+
+28. In HTML, You can embed SVG elements directly into an HTML page.
+
+a) True
+
+b) False
+
+c) No idea
+
+d) None of these
+
+Ans. a
+
+29. What is the correct HTML element for playing video files?
+
+a) <video>
+
+b) <media>
+
+c) <movie>
+
+d) None of these
+
+Ans. a
+
+30. What is the correct HTML element for playing audio files?
+
+a) <mp3>        
+
+b) <sound>     
+
+c) <audio>      
+
+d) None of these
+
+Ans. C
+
+31. What does HTML Stand for?
+
+a) Hyperlinks and Text markup language     
+
+b) Home tool markup language
+
+c) Hyper Text Markup Language                   
+
+d) None of these
+
+Ans. c
+
+32. Who is making the web Standards?
+
+a) Google       
+
+b) Microsoft
+
+c) Mozilla       
+
+d) The World Wide Web Consortium
+
+Ans. d
+
+33. Choose the correct HTML element for the largest heading:
+
+a) <head>       
+
+b) <h1>           
+
+c) <h6>                       
+
+d) <heading>
+
+Ans. b
+
+34. What is the correct HTML element for inserting a line break?
+
+a) <break>      
+
+b) <br>                       
+
+c) <lb>            
+
+d) None of these
+
+Ans. b
+
+35. What is the correct HTML for adding a background color?
+
+a) <body bg=”yellow”>
+
+b) <body style= “background-color:yellow;”>
+
+c) <background>yellow</background>
+
+d) none of these
+
+Ans. b
+
+36. Choose the correct HTML element to define important text
+
+a) <important>           
+
+b) <b>             
+
+c) <strong>     
+
+d) <i>
+
+Ans. c
+
+37. Choose the correct HTML element to define emphasized text
+
+a) <em>          
+
+b) <italic>       
+
+c) <i>              
+
+d) None of these
+
+38. What is the correct HTML for creating a hyperlink?
+
+a) <a name=”http://www.YouTube.com”> YouTube</a>
+
+b) <a href=”http://www.YouTube.com”>YouTube</a>
+
+c) <a url=”http://www.YouTube.com”>YouTube</a>
+
+d) <a>http://www.YouTube.com</a>
+
+Ans. b
+
+39. Which character is used to indicate an end tag?
+
+a) /     
+
+b) <     
+
+c) *     
+
+d) ^
+
+Ans. a
+
+40. How can you open a link in a new tab/browser window?
+
+a) <a href=”url” target=”new”>        
+
+b) <a href=”url” target=”_blank”>
+
+c) <a href=”url” new>                        
+
+d) None of these
+
+Ans. b
+
+
+===============================================================================================================================================================
+CSS MCQ Questions and Answers PDF
+1. How can we change the background color of an element?
+
+a) background-color
+
+b) color
+
+c) Both A and B
+
+d) None of these
+
+Ans. a
+
+2. Which is the correct CSS syntax?
+
+a) body: color = black;
+
+b) body {color; black}
+
+c) {body: color : black;}
+
+d) {body : color = black;}
+
+Ans. b
+
+3. How can we select an element with a specific ID in CSS?
+
+a) #
+
+b) .
+
+c) !
+
+d) None of these
+
+Ans. a
+
+4. How can we select an element with a specific Class in CSS?
+
+a) #
+
+b) .
+
+c) !
+
+d) None of these
+
+Ans. b
+
+5. Can negative values be allowed in padding property?
+
+a) Yes
+
+b) No
+
+c) Depends on property
+
+d) None of these
+
+Ans. b
+
+6. The CSS property used to specify the transparency of an element is?
+
+a) opacity
+
+b) visibility
+
+c) filter
+
+d) None of these
+
+Ans. a
+
+7. How can we specify the spacing between each letter in a text in CSS?
+
+a) alpha-spacing        
+
+b) letter-spacing
+
+c) character-spacing  
+
+d) None of these
+
+Ans. b
+
+8. We can make rounded borders around element using which CSS element?
+
+a) border-collapse
+
+b) border-round
+
+c) border-radius
+
+d) None of these
+
+Ans. c
+
+9. Which of the following property specifies the look and design of an outline?
+
+a) outline-style
+
+b) outline
+
+c) outline-font
+
+d) None of these
+
+Ans. a
+
+10. Which of the following are valid CSS position property values?
+
+a) static
+
+b) relative
+
+c) fixed
+
+d)All of these
+
+Ans. d
+
+11. Which of the following CSS property is used to controlling the layout?
+
+a) display
+
+b) color
+
+c) text
+
+d) None of these
+
+Ans. a
+
+12. Which of the following CSS property specifies the origin of the background image?
+
+a) background-origin
+
+b) background-size
+
+c) origin
+
+d) None of these
+
+Ans. a
+
+13. How are custom fonts defined using CSS?
+
+a) @font-face rule     
+
+b) Custom fonts cannot be defined
+
+c) src tags                   
+
+d) None of these
+
+Ans. a
+
+14. Which of the following are parts of the CSS box model?
+
+a) Margins     
+
+b) Borders      
+
+c) Padding      
+
+d) All of these
+
+Ans. d
+
+15. Which of the following components of the CSS box model are transparent?
+
+a) Padding
+
+b) Margin
+
+c) Both A and B
+
+d) Content
+
+Ans. c
+
+16. Which of the following can be achieved with CSS lists?
+
+a) Set different list item markers for ordered lists
+
+
+b) Set different list item markers for unordered lists
+
+c) Set an image as the list item marker
+
+d) All of these
+
+Ans. d
+
+17. Which of the following CSS property specifies the type of list item marker?
+
+a) list
+
+b) list-style-type
+
+c) ul
+
+d) ol
+
+Ans. b
+
+18. What value should be passed to the width parameter if we want an element,say a table, to span the entire width of the screen?
+
+a) 100%
+
+b) 50%
+
+c) 0%
+
+d) None of these
+
+Ans. a
+
+19. Which of the following properties is used to align text in CSS?
+
+a) text-align
+
+b) text-alignment
+
+c) text
+
+d) text-position
+
+Ans. a
+
+20. Which of the following is the correct approach to make a table responsive?
+
+a) overflow-x: auto    
+
+b) overflow-x: none
+
+c) Both A and B          
+
+d) None of these
+
+Ans. a
+
+21. Which of the following CSS properties specifies the stack order of elements?
+
+a) z-index       
+
+b) overlap       
+
+c) No such specific properties is present       
+
+d) None of these
+
+Ans. a
+
+22. What are the uses of CSS pseudo-elements?
+
+a) Style specified parts of an element
+
+b) Style the first letter or line of an element
+
+c) Insert content before or after the element
+
+d) All of the above
+
+Ans. d
+
+23. How can we select elements with a specified attribute in CSS?
+
+a) [attribute] selector
+
+b) [property] selector
+
+c) Both A and B
+
+d) None of these
+
+Ans. a
+
+24. Which of the following are types of length units in CSS?
+
+a) Absolute
+
+b) Relative
+
+c) Both A and B
+
+d) None of these
+
+Ans. c
+
+25. What parameter does the calc() function in CSS take?
+
+a) A sentence
+
+b) A mathematical expression
+
+c) A number
+
+d) None of these
+
+Ans. b
+
+26. How can we add more importance to a property/value than normal?
+
+a) !important
+
+b) important
+
+c) bold
+
+d) None of these
+
+Ans. a
+
+27. Which CSS property specifies the painting area of the background?
+
+a) background-size                 
+
+b) background-clip
+
+c) background-image             
+
+d) None of these
+
+Ans. b
+
+28. What are the different types of gradients in CSS?
+
+a) Linear Gradients    
+
+b) Conic Gradients     
+
+c) Radial Gradients    
+
+d) All of these
+
+Ans. d
+
+29. Which CSS property is used to create an image reflection?
+
+a) box-reflect
+
+b) image-reflect
+
+c) reflect-img
+
+d) None of these
+
+Ans. a
+
+30. The transparent keyword is equivalent to which RGBA() value in CSS?
+
+a) RGBA(0, 0, 0, 1)
+
+b) RGBA(255, 255, 255, 1)
+
+c) RGBA(0, 0, 0, 0)
+
+d) RGBA(255, 255, 255, 0)
+
+Ans. c
+
+31. What function is used to insert values of a CSS variable?
+
+a) var()
+
+b) rand()
+
+c) varchar()
+
+d) calc()
+
+Ans. a
+
+32. What is the general syntax of writing the var() function?
+
+a) var(–name, value)
+
+b) var(–name)
+
+c) var(value)
+
+d) None of these
+
+Ans. a
+
+33. The CSS property used to control the element’s font size is –
+
+a) text-style
+
+b) text-size
+
+c) font-size
+
+d) None of these
+
+Ans. c
+
+34. The HTML attribute used to define the internal stylesheet is –
+
+a) <style>       
+
+b) style
+
+c) <link>         
+
+d) <script>
+
+Ans. a
+
+35. Which of the following is the correct syntax to make the background-color of all paragraph elements to yellow?
+
+a) p {background-color : yellow;}      
+
+b) p {background-color : #yellow;}
+
+c) all {background-color : yellow;}     
+
+d) all p {background-color : #yellow;}
+
+Ans. a
+
+36. Which of the following is the correct syntax to display the hyperlinks without any under line?
+
+a) a {text-decoration : underline;}
+
+b) a {decoration : no-underline;}
+
+c) a {text-decoration : none;}
+
+d) None of these
+
+Ans. c
+
+37. What is CSS?
+
+a) CSS is a style sheet language
+
+b) CSS is designed to separate the presentation and content, including layout, colors, and fonts
+
+c) CSS is the language used to style the HTML documents
+
+d) All of the mentioned
+
+Ans. d
+
+38. Which of the following tag is used to embed css in html page?
+
+a) <css>
+
+b) <!DOCTYPE html>
+
+c) <script>
+
+d) <style>
+
+Ans. d
+
+39. Which of the following CSS selectors are used to specify a group of elements?
+
+a) tag
+
+b) id
+
+c) class
+
+d) both class and tag
+
+Ans. c
+
+40. Which of the following has introduced text, list, box, margin, border, color, and background properties?
+
+a) HTML
+
+b) PHP
+
+c) CSS
+
+d) Ajax
+
+Ans. c
+================================================================================================================================================================
+1.	
+----stands for Cascading Style Sheets.
+A.	CSS
+B.	inline
+C.	internal
+D.	external
+Answer» A. CSS
+discuss (1)
+2.	
+-----describes how HTML elements are to be displayed on screen, paper, or in other
+media.
+A.	CSS
+B.	inline
+C.	internal
+D.	external
+Answer» A. CSS
+discuss
+3.	
+------saves a lot of work. It can control the layout of multiple web pages all at once.
+A.	CSS
+B.	inline
+C.	internal
+D.	external
+Answer» A. CSS
+discuss
+
+4.	
+An------CSS is used to apply a unique style to a single HTML element
+A.	CSS
+B.	inline
+C.	internal
+D.	external
+Answer» B. inline
+discuss
+5.	
+An-----CSS is defined in the <head> section of an HTML page, within
+a <style> element:
+A.	CSS
+B.	inline
+C.	internal
+D.	external
+Answer» C. internal
+discuss
+6.	
+With an--------style sheet, you can change the look of an entire web site, by
+changing one file!
+A.	CSS
+B.	inline
+C.	internal
+D.	external
+Answer» D. external
+discuss
+7.	
+An external style sheet can be written in any text editor. The file must not contain
+any HTML code, and must be saved with a -------extension.
+A.	.CSS
+B.	.TXT
+C.	.JS
+D.	.XLS
+Answer» A. .CSS
+discuss
+8.	
+The CSS-------property defines the text color to be used.
+A.	color
+B.	font-family
+C.	font -size
+D.	border
+Answer» A. color
+discuss
+
+9.	
+The CSS------property defines the font to be used.
+A.	color
+B.	font-family
+C.	font -size
+D.	border
+Answer» B. font-family
+discuss
+10.	
+The CSS---------property defines the text size to be used.
+A.	color
+B.	font-family
+C.	font -size`
+D.	border
+Answer» C. font -size`
+discuss
+11.	
+The CSS-------property defines a border around an HTML element:
+A.	color
+B.	font-family
+C.	font -size`
+D.	border
+Answer» D. border
+discuss
+
+12.	
+The CSS--------property defines a margin (space) outside the border
+A.	color
+B.	font-family
+C.	font -size`
+D.	Margin
+Answer» D. Margin
+discuss
+13.	
+To define a style for special types of elements, add a-----attribute is apply to the
+element
+A.	color
+B.	font-family
+C.	font -size`
+D.	class
+Answer» D. class
+discuss
+14.	
+-------are used to explain the code, and may help when you edit the source code at
+a later date.
+A.	color
+B.	font-family
+C.	font -size`
+D.	comments
+Answer» D. comments
+discuss
+15.	
+------are ignored by browsers.
+A.	color
+B.	font-family
+C.	font -size`
+D.	comments
+Answer» D. comments
+discuss
+16.	
+------stands for -
+A.	Cascade style sheets
+B.	Color and style sheets
+C.	Cascading style sheets
+D.	None of the above
+Answer» A. Cascade style sheets
+discuss (1)
+
+17.	
+Which of the following is the correct syntax for referring the external style sheet?
+A.	<style src = example.css>
+B.	<style src = "example.css" >
+C.	<stylesheet> example.css </stylesheet>
+D.	<link rel="stylesheet" type="text/css" href="example.css">
+Answer» B. <style src = "example.css" >
+discuss
+18.	
+The property in CSS used to change the---------of an element is -
+A.	bgcolor
+B.	color
+C.	background-color
+D.	All of the above
+Answer» C. background-color
+discuss
+19.	
+The property in CSS used to change the text-----of an element is
+Sol:
+-
+A.	bgcolor
+B.	color
+C.	background-color
+D.	All of the above
+Answer» B. color
+discuss
+20.	
+The CSS property used to control the element's------is -
+A.	text-style
+B.	text-size
+C.	font-size
+D.	None of the above
+Answer» C. font-size
+discuss
+21.	
+The HTML attribute used to define the inline------is -
+A.	style
+B.	styles
+C.	class
+D.	None of the above
+Answer» A. style
+discuss
+
+22.	
+The HTML attribute used to define the internal style sheet is ------
+A.	<style>
+B.	style
+C.	<link>
+D.	<script>
+Answer» B. style
+discuss
+23.	
+Which of the following CSS property is used to set the background image of an
+element?
+A.	background-attachment
+B.	background-image
+C.	background-color
+D.	None of the above
+Answer» B. background-image
+discuss
+24.	
+Which of the following is the correct syntax to make the background-color of all
+paragraph elements to yellow?
+A.	p {background-color : yellow;}
+B.	p {background-color : #yellow;}
+C.	all {background-color : yellow;}
+D.	all p {background-color : #yellow;}
+Answer» A. p {background-color : yellow;}
+discuss
+25.	
+Which of the following is the correct syntax to display the hyperlinks without any underline?
+A.	a {text-decoration : underline;}
+B.	a {decoration : no-underline;}
+C.	a {text-decoration : none;}
+D.	None of the above
+Answer» C. a {text-decoration : none;}
+discuss
+26.	
+Which of the following property is used as the shorthand property for the padding properties?
+A.	padding-left
+B.	padding-right
+C.	padding
+D.	All of the above
+Answer» C. padding
+discuss
+27.	
+The CSS property used to make the-------is -
+A.	font-weight : bold
+B.	weight: bold
+C.	font: bold
+D.	style: bold
+Answer» C. font: bold
+discuss
+28.	
+Are the negative values allowed in padding property?
+A.	Yes
+B.	No
+C.	Can't say
+D.	May be
+Answer» A. Yes
+discuss
+29.	
+Which of the following property is used as the shorthand property of margin
+properties?
+A.	margin-left
+B.	margin-right
+C.	margin
+D.	None of the above
+Answer» C. margin
+discuss
+30.	
+The CSS property used to specify the transparency of an element is
+A.	opacity
+B.	filter
+C.	visibility
+D.	overlay
+Answer» C. visibility
+discuss
+
+31.	
+Which of the following is used to specify the subscript of text using CSS?
+A.	vertical-align: sub
+B.	vertical-align: super
+C.	vertical-align: subscript
+D.	None of the above
+Answer» A. vertical-align: sub
+discuss
+32.	
+The-----CSS is also a method to insert style sheets in HTML document. This
+method mitigates some advantages of style sheets so it is advised to use this method sparingly.
+A.	CSS
+B.	inline
+C.	internal
+D.	external
+Answer» B. inline
+discuss
+33.	
+-----style sheet is generally used when you want to make changes on multiple pages. It is ideal for this condition because it facilitates you to change the look of the entire web site by changing just one file.
+A.	CSS
+B.	inline
+C.	internal
+D.	external
+Answer» B. inline
+discuss
+34.	
+-----tag is used to display the list in order wise like 1,2 3.. or A,B,C..
+A.	<meta>
+B.	<ul>
+C.	<ol>
+D.	<map>
+Answer» C. <ol>
+discuss
+35.	
+----tag is used to display the bullet wise list in unordered wise.
+A.	<meta>
+B.	<ul>
+C.	<ol>
+D.	<map>
+Answer» A. <meta>
+discuss
+36.	
+-----tag is used to specify the page description ,keyword, author name, it is
+additional information about the information.
+A.	<meta>
+B.	<ul>
+C.	<ol>
+D.	<map>
+Answer» A. <meta>
+discuss
+37.	
+-----tag is used to define the list item.
+A.	<li>
+B.	<ul>
+C.	<ol>
+D.	<map>
+Answer» A. <li>
+discuss
+38.	
+-----is used to define the width of border while cellpadding define distance between
+cell border and content within it .
+A.	<cellspacing>
+B.	<ul>
+C.	<ol>
+D.	<map>
+Answer» A. <cellspacing>
+discuss
+39.	
+cellspacing is used to define the width of border while------define distance
+between cell border and content within it .
+A.	<cellspacing>
+B.	<cellpadding>
+C.	<ol>
+D.	<map>
+Answer» B. <cellpadding>
+discuss
+40.	
+------tag is used to declaring the title or name of the html document.
+A.	<body>
+B.	<title>
+C.	<head>
+D.	<center>
+Answer» B. <title>
+discuss
+
+41.	
+-----tag is used to for indicating the head section of the html document.
+A.	<body>
+B.	<title>
+C.	<head>
+D.	<center>
+Answer» C. <head>
+discuss
+42.	
+------tag is used to define the document body.
+A.	<body>
+B.	<title>
+C.	<head>
+D.	<center>
+Answer» A. <body>
+discuss
+43.	
+-----tag is used to center align text.
+A.	<body>
+B.	<title>
+C.	<head>
+D.	<center>
+Answer» D. <center>
+discuss
+44.	
+-----tag is used to give the space in between to word or character .
+A.	<&nbps>
+B.	<title>
+C.	<head>
+D.	<center>
+Answer» A. <&nbps>
+=======================================================================================================================
+List of CSS MCQs
+1. What is CSS stands for?
+
+Cascading Style Sheets
+Cascade Style Sheet
+Color Style Sheets
+Color Style Sheet
+Answer: A) Cascading Style Sheets
+
+Explanation:
+
+The full form of the CSS is Cascading Style Sheets. Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.
+
+2. What CSS describes?
+
+CSS describes how calculation perform on button click.
+CSS describes how HTML elements are to be displayed on screen, paper, or in other media
+Both A. and B.
+None of the above
+Answer: B) CSS describes how HTML elements are to be displayed on screen, paper, or in other media
+
+Explanation:
+
+CSS describes how HTML elements are to be displayed on screen, paper, or in other media.
+
+3. What is the correct syntax for referring an external CSS?
+
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+<stylesheet rel="stylesheet" type="text/css" href="mystyle.css">
+<style rel="stylesheet" type="text/css" href="mystyle.css">
+All of the above
+Answer: A) <link rel="stylesheet" type="text/css" href="mystyle.css">
+
+Explanation:
+
+The correct syntax to include (refer) an external CSS in an HTML document is,
+
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+Here,
+
+rel defined the relationship.
+href is the CSS filename.
+type is the type of the file, for CSS – the type is "text/css"
+4. What is a CSS selector?
+
+A CSS selector is the CSS class name
+A CSS selector is the set of properties that are going to be applied on HTML elements
+A CSS selector is name of CSS file.
+A CSS selector is the first part of a CSS Rule. It may an HTML element or pattern of elements.
+Answer: D) A CSS selector is the first part of a CSS Rule. It may an HTML element or pattern of elements
+
+Explanation:
+
+A CSS selector is the first part of a CSS Rule. It may an HTML element or pattern of elements and other terms that tell the browser which HTML elements should be selected to have the CSS property values inside the rule applied to them.
+
+5. In a CSS file, there is a CSS rule for paragraphs tags – what does p can be called?
+
+Selector
+Attribute
+Property
+Tag
+Answer: A) Selector
+
+Explanation:
+
+In a CSS rule, the HTML element(s) for them we are writing the CSS is known as "CSS Selector".
+
+6. Internal styles are written within the _____ element.
+
+<style>…</style>
+<css>…</css>
+<stylesheet>…</stylesheet>
+Both A. and B.
+Answer: A) <style>…</style>
+
+Explanation:
+
+Internal styles are defined within the <style> element, inside the <head> section of an HTML page.
+
+7. Inline styles are written within the _____ attribute.
+
+style
+css
+stylesheet
+Both A. and B.
+Answer: A) style
+
+Explanation:
+
+Inline styles are defined within the style attribute of the relevant element.
+
+Example:
+
+<h1 style="color:blue;text-align:center;">This is a heading</h1>
+<p style="color:red;">This is a paragraph.</p>
+8. CSS comments are placed within the ______.
+
+//
+/* and */
+<* and *>
+<! And !>
+Answer: B) /* and */
+
+Explanation:
+
+A CSS comment is placed inside the <style> element, and starts with /* and ends with */.
+
+9. Can comments also span multiple lines?
+
+Yes
+No
+Answer: A) Yes
+
+Explanation:
+
+Yes, comments can also span multiple lines.
+
+Example:
+
+/* This is
+a multi-line
+comment */
+
+OR
+
+/*
+This is
+a multi-line
+comment
+*/
+10. Which property is used to define the text color?
+
+text-color
+color
+font-color
+Both A. and B.
+Answer: B) color
+
+Explanation:
+
+The color property is used to define the text color in CSS.
+
+11. Which property is used to define the background color?
+
+bgcolor
+bg-color
+background
+background-color
+Answer: D) background-color
+
+Explanation:
+
+The background-color property is used to define the background color in CSS.
+
+12. From the given options which is/are the valid way to represent a color?
+
+A valid color name like "blue"
+HEX code like "#0000ff"
+RGB Value like "rgb(0,0,255)
+All of the above
+Answer: D) All of the above
+
+Explanation:
+
+All of the given options are valid to define/represent the color name.
+
+13. Which property is used to define the font of the element's text?
+
+font
+font-family
+font-style
+All of the above
+Answer: B) font-family
+
+Explanation:
+
+The font-family property is used to define the font of the element's text.
+
+Example:
+
+p
+{
+   font-family: "Times New Roman", Times, serif;
+}
+14. To make a text italic, which CSS property is used?
+
+font
+font-family
+font-style
+All of the above
+Answer: C) font-style
+
+Explanation:
+
+The font-style property is used to define the font style i.e., to make the text bold. To make the text italic, italic value is used.
+
+Example:
+
+p
+{
+font-style: italic;
+}
+15. What are the valid values of font-style property?
+
+italic, bold, bolder
+normal, bold, italic
+underline, bold, italic
+inherit, italic, normal, oblique
+Answer: D) inherit, italic, normal, oblique
+
+Explanation:
+
+The following are the valid values of the font-style property,
+
+inherit
+italic
+normal
+oblique
+16. Why font-weight property is used?
+
+Sets how thick or thin characters in text should be displayed.
+Sets the size of the font
+Both A. and B.
+None of the above
+Answer: A) Sets how thick or thin characters in text should be displayed
+
+Explanation:
+
+The font-weight property sets how thick or thin characters in text should be displayed.
+
+17. What is/are the correct value(s) of font-weight property?
+
+bold, italic, underline
+normal, bold, italic
+normal, bold, bolder, lighter, initial, and inherit
+None of the above
+Answer: C) normal, bold, bolder, lighter, initial, and inherit
+
+Explanation:
+
+The valid values of the font-wight property:
+
+normal,
+bold
+bolder
+lighter
+initial
+inherit
+18. Which is the correct inline CSS for p tag to define paragraph's text and background colors?
+
+<p css="color: red; background-color: yellow;">
+<p cssstyle="color: red; background-color: yellow;">
+<p inline="color: red; background-color: yellow;">
+<p style="color: red; background-color: yellow;">
+Answer: D) <p style="color: red; background-color: yellow;">
+
+Explanation:
+
+The correct inline CSS style is,
+
+<p style="color: red; background-color: yellow;">Paragraph Text.</p>
+19. What is the correct syntax of border property in CSS?
+
+border: border-width border-style border-color
+border: border-color border-width border-style
+border: border-style border-width border-color
+All of the above
+Answer: A) border: border-width border-style border-color
+
+Explanation:
+
+The correct syntax to define element's border using the border property
+
+border: border-width border-style border-color
+Example:
+
+<p style="border: 2px solid red;">
+This is some text in a paragraph.
+</p>
+20. Which of the following is the correct syntax to display the hyperlinks without any underline?
+
+a {text-decoration : underline;}
+a {text-decoration : none;}
+a {text-decoration : block;}
+None of the above
+Answer: B) a {text-decoration : none;}
+
+Explanation:
+
+The correct syntax to display the hyperlinks without any underline is,
+
+a {text-decoration : none;}
+21. Which of the following is the correct syntax to remove the underline on hyperlinks and visited hyperlinks?
+
+a {text-decoration : underline;}, a:visited {text-decoration : underline;}
+a {text-decoration : block;}, a:visited {text-decoration : block;}
+a {text-decoration : none;}, a:visited {text-decoration : none;}
+None of the above
+Answer: C) a {text-decoration : none;}, a:visited {text-decoration : none;}
+
+Explanation:
+
+The correct syntax to display the hyperlinks without any underline is,
+
+a {text-decoration : none;}, a:visited {text-decoration : none;}
+22. Which CSS property is used to style the hyperlinks on hover (Mouse over)?
+
+a:mouseover
+a:move
+a:mover
+a:hover
+Answer: D) a:hover
+
+Explanation:
+
+The a:hover property is used to define the style on mouse over event,
+
+a:hover{
+// styles
+} 
+23. If you want to use a green dotted border around an image, which CSS property is used for that?
+
+border-style
+border-color
+border-decoration
+Both A. and B.
+Answer: D) Both A. and B.
+
+Explanation:
+
+Two properties border-style and border-color are used to define a green dotted border around an image.
+
+Example:
+
+<img src="image_1.jpg" style="border-style:dotted;border-color:green;"/>
+24. Which CSS property and value is used to center an element?
+
+text-align:center
+align:center
+text-align:middle
+align:middle
+Answer: A) text-align:center
+
+Explanation:
+
+text-align property with value center is used to center an elements.
+
+25. What are the valid values of text-align property?
+
+left, middle, right
+left, center, right
+left, center, right, justify
+left, middle, right, justify
+Answer: C) left, center, right, justify
+
+Explanation:
+
+The valid values of text-align property are,
+
+left
+center
+right
+justify
+26. What is the use of "text-align:justify" in CSS?
+
+Stretches the lines so that each line has equal width
+Stretches the lines so that each line can be arranged in left alignment
+Stretches the lines so that each line can be arranged in right alignment
+None of the above
+Answer: A) Stretches the lines so that each line has equal width
+
+Explanation:
+
+The text-align:justify property stretches the lines so that each line has equal width.
+
+27. Which CSS property is used to specify the indentation of the first line of a text?
+
+text-align
+padding-left
+margin-left
+text-indent
+Answer: D) text-indent
+
+Explanation:
+
+The text-indent property is used to specify the indentation of the first line of a text.
+
+Example:
+
+p {
+  text-indent: 50px;
+}
+28. Which CSS property is used to specify the space between the characters in a text?
+
+text-space
+letter-space
+letter-spacing
+letter-distance
+Answer: C) letter-spacing
+
+Explanation:
+
+The letter-spacing property is used to specify the space between the characters in a text.
+
+Example:
+
+p {
+  letter-spacing: 5px; 
+}
+29. Which CSS property is used to specify the space between lines?
+
+line-space
+line-spacing
+line-padding
+line-height
+Answer: D) line-height
+
+Explanation:
+
+The line-height property is used to specify the space between lines.
+
+Example:
+
+p {
+  line-height: 2.0;
+}
+30. Which CSS property is used to specify the space between the words in a text?
+
+word-spacing
+word-padding
+word-height
+characters-spacing
+Answer: A) word-spacing
+
+Explanation:
+
+The word-spacing property is used to specify the space between the words in a text.
+
+Example:
+
+p {
+  word-spacing: 10px;
+}
+31. Which CSS property adds shadow to text?
+
+content-shadow
+text-shadow
+word-shadow
+text-outline
+Answer: B) text-shadow
+
+Explanation:
+
+The text-shadow property adds shadow to text.
+
+Example:
+
+p {
+  text-shadow: 1px 2px green;
+}
+32. Which CSS property is used to specify uppercase and lowercase letters in a text?
+
+text-transform
+text-case
+case
+text-casing
+Answer: A) text-transform
+
+Explanation:
+
+The text-transform property is used to specify uppercase and lowercase letters in a text.
+
+Example:
+
+p {
+  text-transform: uppercase / lowercase / capitalize;
+}
+33. Which is the correct CSS statement to capitalize the first letter of each word?
+
+text-transform: uppercase
+text-transform: capitalize
+text-transform: sentence
+Both A. and B.
+Answer: B) text-transform: capitalize
+
+Explanation:
+
+The correct CSS statement is to capitalize the first letter of each word,
+
+p {
+  text-transform: capitalize;
+}
+34. What are the valid values of text-transform property?
+
+uppercase, lowercase, and capitalize
+uppercase, lowercase, capitalize, and sentence
+upper, lower, and capital
+upper, lower, capital, and sentence
+Answer: A) uppercase, lowercase, and capitalize
+
+Explanation:
+
+The valid values of text-transform property are,
+
+uppercase
+lowercase, and
+capitalize
+35. What are the valid values of "text-decoration" property?
+
+overline, line-through, underline, and none
+overline, strike, line-through, underline, and none
+double-line, overline, line-through, underline, and none
+None of these
+Answer: A) overline, line-through, underline, and none
+
+Explanation:
+
+The valid values of text-decoration property are,
+
+overline
+line-through
+underline, and
+none
+36. Which CSS property specifies how to align the last line of a text?
+
+text-align
+last-text-align
+text-align-last-line
+text-align-last
+Answer: D) text-align-last
+
+Explanation:
+
+The text-align-last property specifies how to align the last line of a text.
+
+Example:
+
+p {
+  text-align-last: right;
+}
+37. Which CSS property sets the vertical alignment of an element?
+
+vertical-align
+vertical-text-align
+text-valign
+vertical-align-text
+Answer: A) vertical-align
+
+Explanation:
+
+The vertical-align property sets the vertical alignment of an element.
+
+Example:
+
+p {
+  vertical-align: baseline;
+}
+38. What are the valid values of vertical-align property?
+
+baseline, text-top, text-bottom, subscript, and superscript
+baseline, top, bottom, sub, and super
+baseline, text-top, text-bottom, sub, and super
+base, text-top, text-bottom, sub, and super
+Answer: C) baseline, text-top, text-bottom, sub, and super
+
+Explanation:
+
+The valid values of vertical-align property are,
+
+baseline
+text-top
+text-bottom
+sub, and
+super
+39. Which is the correct CSS statement to define multiple font families?
+
+font: "Times New Roman", Times, serif;
+font-name: "Times New Roman", Times, serif;
+font-family: "Times New Roman, Times, serif";
+font-family: "Times New Roman", Times, serif;
+Answer: D) font-family: "Times New Roman", Times, serif;
+
+Explanation:
+
+The correct CSS statement to define multiple font families,
+
+p {
+  font-family: "Times New Roman", Times, serif;
+}
+40. Which CSS property specifies the type of list item marker?
+
+list-style
+list-style-type
+list-style-circle
+list-style-square
+Answer: B) list-style-type
+
+Explanation:
+
+The list-style-type property specifies the type of list item marker.
+
+Example:
+
+ul {
+  list-style-type: circle;
+}
+41. Which is the correct CSS statement is used to remove the markers/bullets?
+
+list-style: none;
+list-style-type: 0;
+list-style-type: blank;
+list-style-type: none;
+Answer: D) list-style-type: none;
+
+Explanation:
+
+The correct CSS statement is used to remove the markers/bullets,
+
+ul {
+  list-style-type: none;
+}
+42. Which CSS property specifies an image as the list item marker?
+
+list-style-image
+list-style-picture
+list-style-background
+list-style-bgimage
+Answer: A) list-style-image
+
+Explanation:
+
+The list-style-image property specifies an image as the list item marker.
+
+Example:
+
+ul {
+  list-style-image: url('sqpurple.gif');
+}
+43. Which CSS property specifies if/how an element is displayed?
+
+block
+display
+element-display
+element-block
+Answer: B) display
+
+Explanation:
+
+The display property specifies if/how an element is displayed.
+
+Example:
+
+ul {
+  display: block;
+}
+44. Which CSS property specifies the type of positioning method used for an element?
+
+positions
+text-position
+positioning
+position
+Answer: D) position
+
+Explanation:
+
+The position property specifies the type of positioning method used for an element.
+
+Example:
+
+div.fixed{
+  position: fixed;
+}
+45. HTML elements are positioned ___ by default.
+
+static
+fixed
+relative
+none
+Answer: A) static
+
+Explanation:
+
+HTML elements are positioned static by default.
+
+46. What are the valid values for "position" property?
+
+block, none, fixed, absolute, and static
+block, static, fixed, absolute, and sticky
+static, relative, fixed, absolute, and none
+static, relative, fixed, absolute, and sticky
+Answer: D) static, relative, fixed, absolute, and sticky
+
+Explanation:
+
+The valid values for position property are,
+
+static
+relative
+fixed
+absolute
+sticky
+47. Which CSS property specifies the opacity/transparency of an element?
+
+transparency
+opacity
+transform-opacity
+opacity-all
+Answer: B) opacity
+
+Explanation:
+
+The opacity property specifies the opacity/transparency of an element.
+
+Example:
+
+img {
+  opacity: 0.8;
+}
+48. Which CSS function performs a calculation to be used as the property value?
+
+sum()
+add()
+calc()
+addition()
+Answer: C) calc()
+
+Explanation:
+
+The calc() function performs a calculation to be used as the property value.
+
+Example:
+
+body {
+  width: calc(100% - 100px);
+}
+49. Which CSS function uses the largest value?
+
+large()
+maximum()
+max_value()
+max()
+Answer: D) max()
+
+Explanation:
+
+The max() function uses the largest value.
+
+Example:
+
+body {
+  width: max(80%, 100px);
+}
+50. Which CSS function uses the smallest value?
+
+small()
+minimum()
+min_value()
+min()
+Answer: D) min()
+
+Explanation:
+
+The min() function uses the smallest value.
+
+Example:
+
+body {
+  width: min(80%, 100px);
+}
+51. In how many ways can CSS be added to HTML?
+
+One
+Two
+Three
+Infinite
+Answer: C) Three
+
+Explanation:
+
+CSS can be added to HTML in three different ways.
+
+By using style attribute inside <body> tag.
+By using <style> tag inside the <head> section of HTML
+By creating an external CSS file and linking this file using <link> tag in HTML.
+52. The <style> in Internal CSS refers to ___.
+
+Attributes
+HTML tags
+Selector
+All of the above
+Answer: B) HTML tags
+
+Explanation:
+
+In Internal CSS, we add CSS using <style>, which is an HTML tag.
+
+53. Can we link multiple stylesheets to a single page?
+
+Yes
+No
+Can't say, it depends on CSS properties
+None of the above
+Answer: A) Yes
+
+Explanation:
+
+Yes, we can link multiple stylesheets to a single page. You just have to add the <link> element for each stylesheet.
+
+54. The CSS property used to change text sizes?
+
+font-family
+font-size
+font
+Both A and C
+Answer: D) Both A and C
+
+Explanation:
+
+The font and font-size CSS properties are used to change the font size. Font size is one of the longhand properties of the font.
+
+55. In this line of code, identify the selector ___.
+
+p {border: 2px solid blue;}
+p
+border
+2px
+None of these
+Answer: A) p
+
+Explanation:
+
+In the given line of code, p is the selector. Selectors target HTML elements that we want to style. Here, the border is a CSS property and 2px solid blue is the property value.
+
+56. How many color names does CSS supports?
+
+140
+100
+75
+90
+Answer: A) 140
+
+Explanation:
+
+CSS3 has 140 color names available which are supported by all the browsers.
+
+57. The ___ property is used in the positioning of the background image.
+
+background-image
+background-position
+padding
+All of the above
+Answer: B) background-position
+
+Explanation:
+
+As the name suggests, the background-position property specifies the position of the background image.
+
+58. ___ means 4 times the size of the current font.
+
+4px
+4 pt.
+4em
+4vw
+Answer: C) 4em
+
+Explanation:
+
+All four units refer to the unit of length. 4em means 4 times the size of the current font which is relative to the font size of the element.
+
+59. Amongst the following browsers, which browser supports almost all the CSS properties?
+
+Firefox
+Safari
+Google Chrome
+Opera
+Answer: C) Google Chrome
+
+Explanation:
+
+Both Google Chrome and Microsoft Edge support almost all the CSS properties.
+
+60. What is the CSS Entity for the character '#'?
+
+0023
+0026
+0027
+None of the these
+Answer: A) 0023
+
+Explanation:
+
+We use CSS Entities to display all the characters. There are different entities for different characters. For this character "#", CSS Entity is 0023.
+
+61. This selector selects all the <h> elements where the parent is a <div> element.
+
+h + p
+h > p
+p.h
+p > h
+Answer: B) h > p
+
+Explanation:
+
+This is an element>element selector in which operand on the left side of child combinator (>) is the parent and operand on the right side is the child element.
+
+62. Which selector selects the markers of list items?
+
+:: marker
+.marker
+::selector
+None of these
+Answer: A) ::marker
+
+Explanation:
+
+The :: marker selector targets the list markers of list items.
+
+63. Which is the most widely used font in customizing web pages?
+
+Times New Roman
+Georgia
+Arial
+Garamond
+Answer: C) Arial
+
+Explanation:
+
+Arial (sans-serif) is the most widely used font on web pages.
+
+64. Which of the following CSS properties are animatable?
+
+color
+border-left
+flex
+All of the above
+Answer: D) All of the above
+
+Explanation:
+
+We can add animation and transitions to all these three properties. To add animations, we apply animation property.
+
+65. We can give space between unit and value when assigning length values to CSS properties.
+
+True
+False
+Answer: B) False
+
+Explanation:
+
+If you give a space between unit and value, the property won't be injected in div.
+
+66. Which of these units of length is supported by Chrome Version 1.0?
+
+rem
+px
+vw
+vh
+Answer: B) px
+
+Explanation:
+
+Pixels (px) is supported by Chrome Version 1.0.
+
+67. Which line of code is a must to write to apply CSS Flexbox properties?
+
+display: flex;
+display: flexbox;
+display: block;
+flex-direction: row;
+Answer: A) display: flex;
+
+Explanation:
+
+If you want to apply CSS Flexbox properties, you need to set the display to flex first.
+
+68. The default value of justify-content property is ___.
+
+flex-start
+flex-end
+space-between
+None
+Answer: A) flex-start
+
+Explanation:
+
+The justify-content property is one of the CSS Flexbox properties. Its default value is flex-start.
+
+69. Which is the correct syntax for adding animation?
+
+animation: name timing-function duration
+animation: name duration timing-function
+animation: name delay duration
+None of these
+Answer: B) animation: name duration timing-function
+
+Explanation:
+
+The correct syntax for adding animation is:
+
+animation: name duration timing-function
+70. Which line of code specifies playing an animation with the same speed from beginning to the end?
+
+div {animation- timing function: linear;}
+div {animation- timing function: ease in;}
+div {animation- play- state: paused;}
+div {animation- fill-mode: both;}
+Answer: A) div {animation- timing function: linear;}
+
+Explanation:
+
+We use the animation- timing- function property to define the time an animation uses to change from one set of CSS styles to another. When we set its value to linear, the animation will have the same speed from start to end.
+
+71. Which line of code represents a universal selector?
+
+*{border: 2px solid red;}
+body {border: 2px solid red;}
+both A&B
+None of these
+Answer: A) *{border: 2px solid red;}
+
+Explanation:
+
+Syntax for Universal selector is:
+
+*{CSS property}
+This selector selects all the HTML elements on the page.
+
+72. Which of the following properties specify the width of the borders?
+
+border-width
+border-style
+border
+Both A and C
+Answer: D) Both A and C
+
+Explanation:
+
+Both border and border-width properties specify the width of the borders. The border property is a shorthand property for border-width, border-style, and border-color.
+
+73. Is border-image property animatable?
+
+Yes
+No
+Answer: B) No
+
+Explanation:
+
+The border-image property is not animatable. We cannot use this property in defining animations and transitions.
+
+74. What value is set to border: collapse property to define borders around each cell? (Refer to the image)
+
+CSS MCQs Que 74
+collapse
+separate
+initial
+inherit
+Answer: B) separate
+
+Explanation:
+
+When we set the value of border:collapse property to separate, each cell will display its borders.
+
+75. Which cursor property value indicates that the program is busy?
+
+help
+default
+auto
+wait
+Answer: D) wait
+
+Explanation:
+
+When we set the cursor property value to wait, the cursor indicates that the program is busy.
+
+76. What does this line of code explain?
+
+p {display: flex;}
+All the <p> elements are displayed as a block-level flex container
+All the <p> elements are not displayed by the browser
+All the <p> elements are displayed as a grid container
+All the <p> elements are displayed as an inline flex container
+Answer: A) All the <p> elements are displayed as a block-level flex container
+
+77. The text-align property defines the ___ alignment of text in an element.
+
+horizontal
+vertical
+both horizontal & vertical
+None of these
+Answer: A) horizontal
+
+Explanation:
+
+The text-align property specifies the horizontal alignment of the text.
+
+78. Does the z-index property accept negative values?
+
+Yes
+No
+Answer: A) Yes
+
+Explanation:
+
+The z-index property accepts both negative and positive values.
+
+79. Which CSS property is not supported by the Firefox browser?
+
+text-indent
+scroll- behavior
+overflow
+viewport
+Answer: D) viewport
+
+Explanation:
+
+The viewport property is not supported by Firefox. Chrome and Microsoft Edge support this.
+
+80. Which one is a fallback font?
+
+Times New Roman
+Georgia
+Serif
+None of these
+Answer: C) Serif
+
+Explanation:
+
+One of the most commonly used fallback fonts is serif. Times New Roman and Georgia are examples of serif.
+
+81. Where do we store external stylesheets?
+
+HTML files
+CSS files
+Folder
+None of these
+Answer: B) CSS files
+
+Explanation:
+
+External stylesheets are stored in CSS files and we can link those files in HTML using the <link> tag.
+
+82. In the given line of code, identify the type of selector used.
+
+#Main {background-color: yellow;}
+CSS element selector
+CSS id selector
+Combinator selector
+All of the above
+Answer: B) CSS id selector
+
+Explanation:
+
+The id selector uses the id attribute of an HTML element to select a specified element.
+
+Syntax:
+
+#id attribute {CSS property}
+83. The Hex Code for the red color is ___.
+
+#FF0000
+#F0F000
+#F0000F
+None of these
+Answer: A) #FF0000
+
+Explanation:
+
+Hex codes are three-byte hexadecimal numbers that are used to identify color in HTML/CSS.
+
+84. In CSS, what does HSL stands for?
+
+hue, standard, light
+height, standard, line-width
+hue, saturation, lightness
+hue, standard, line-width
+Answer: C) hue, saturation, lightness
+
+Explanation:
+
+HSL stands for hue, saturation, lightness. In CSS, we can specify color using the HSL value.
+
+85. Among the following CSS properties, which property is not a shorthand property?
+
+background
+padding
+display
+border
+Answer: C) display
+
+Explanation:
+
+The display property is not a shorthand property. It has only one property value.
+
+86. In this line of code, what is the use of the alt attribute?
+
+<img src="circle.jpg" alt="It is red">
+Adds a text description to an image
+Provides alternative information for an image
+To hide an image
+Both A & B
+Answer: D) Both A & B
+
+Explanation:
+
+The alt attribute is used to provide alternative information for an image if a user fails to view an image on the webpage and also it tells us something related to the image.
+
+87. The CSS border property specifies the style, color, and ___ of an element's border.
+
+length
+size
+width
+area
+Answer: C) width
+
+Explanation:
+
+The CSS border properties specify the style, color, and width of an element's border. The border property is a shorthand property for border-width, border-style, and border-color.
+
+88. To get this output, the CSS properties put to use are ___.
+
+CSS MCQs Que 88
+display, border, align-items, justify-content
+display, border-width, justify-content, border-color
+margin, display, padding-left, justify-content
+None of these
+Answer: A) display, border, align-items, justify-content
+
+Explanation:
+
+Code:
+
+border: 4px solid blue;
+display: flex;
+align-items: center;
+justify-content: center;
+89. What does 'padding: 50px 20px;' specifies?
+
+top padding is 50px
+bottom padding is 20px
+right padding is 20px
+Both A & C
+Answer: D) Both A & C
+
+Explanation:
+
+This line of code specifies top and bottom paddings are "50px" & "right" and left paddings are "20px".
+
+90. What is the default size for normal text, like paragraphs?
+
+11px
+12px
+16px
+18px
+Answer: C) 16px
